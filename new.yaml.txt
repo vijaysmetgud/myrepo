@@ -1,5 +1,4 @@
 ---
-MY NAME IS VIJAY METGUD
 - name: activity1
 become: yes
 hosts: all
